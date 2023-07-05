@@ -1,28 +1,30 @@
 import React from 'react';
-import logo from './logo.png';
+import logo from './assets/logo.png';
+import flower1 from './assets/flower1.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <main className="main">
+        {/*<img src={flower1} className="flower1" alt=""/>*/}
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Her kommer Ine og Magnus sin bryllupsnettside
         </p>
         <a
-          className="App-link"
+          className="logo"
           href="https://www.1881.no/person/ullensaker/kloefta/ine-antonette-kirkemo_31516176S1/"
         >
           Hvem er Ine ?
         </a>
         <a
-          className="App-link"
+          className="logo"
           href="https://no.pinterest.com/magkrstar/"
         >
           Hvem er Magnus ?
         </a>
-      </header>
+      </main>
     </div>
   );
 }
