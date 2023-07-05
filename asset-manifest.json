@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/crowbel.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/crowbel.github.io/static/js/main.601d9a7f.js",
-    "static/media/logo.png": "/crowbel.github.io/static/media/logo.baf0f8026de2a07dc3f2.png",
-    "index.html": "/crowbel.github.io/index.html",
-    "main.073c9b0a.css.map": "/crowbel.github.io/static/css/main.073c9b0a.css.map",
-    "main.601d9a7f.js.map": "/crowbel.github.io/static/js/main.601d9a7f.js.map"
+    "main.css": "/bryllupsnettside/static/css/main.073c9b0a.css",
+    "main.js": "/bryllupsnettside/static/js/main.fead53ab.js",
+    "static/media/logo.png": "/bryllupsnettside/static/media/logo.baf0f8026de2a07dc3f2.png",
+    "index.html": "/bryllupsnettside/index.html",
+    "main.073c9b0a.css.map": "/bryllupsnettside/static/css/main.073c9b0a.css.map",
+    "main.fead53ab.js.map": "/bryllupsnettside/static/js/main.fead53ab.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.601d9a7f.js"
+    "static/js/main.fead53ab.js"
   ]
 }
