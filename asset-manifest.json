@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bryllupsnettside/static/css/main.073c9b0a.css",
-    "main.js": "/bryllupsnettside/static/js/main.fead53ab.js",
+    "main.css": "/bryllupsnettside/static/css/main.9e9d5309.css",
+    "main.js": "/bryllupsnettside/static/js/main.a84b00a0.js",
     "static/media/logo.png": "/bryllupsnettside/static/media/logo.baf0f8026de2a07dc3f2.png",
     "index.html": "/bryllupsnettside/index.html",
-    "main.073c9b0a.css.map": "/bryllupsnettside/static/css/main.073c9b0a.css.map",
-    "main.fead53ab.js.map": "/bryllupsnettside/static/js/main.fead53ab.js.map"
+    "main.9e9d5309.css.map": "/bryllupsnettside/static/css/main.9e9d5309.css.map",
+    "main.a84b00a0.js.map": "/bryllupsnettside/static/js/main.a84b00a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fead53ab.js"
+    "static/css/main.9e9d5309.css",
+    "static/js/main.a84b00a0.js"
   ]
 }
