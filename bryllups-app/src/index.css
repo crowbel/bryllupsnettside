@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  /*Hente inn helvetica font fra font awesome eller google fonts*/
+  background-color: #1c5148;
+  height: 100vh;
   font-family: "Hubballi-Regular", Helvetica;
 }
 
