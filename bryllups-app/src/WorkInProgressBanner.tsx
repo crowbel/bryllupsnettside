@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import logo from './assets/logo.png';
 
-import flower1 from './assets/Rectangle 6.png';
+import flower1 from './assets/Rectangle 27.png';
 import flower2 from './assets/Rectangle 9.png';
 
 const WorkInProgressDiv = styled.div`
@@ -27,8 +27,9 @@ const Flowers = styled.div`
 `;
 
 const FlowerImg = styled.img`
-    width: 30%;
-    max-width: 100px;
+    width: 100%;
+    heigh: 100%;
+    max-width: 500px;
 `;
 
 
