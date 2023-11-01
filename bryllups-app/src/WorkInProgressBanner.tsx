@@ -32,23 +32,24 @@ const Flowers = styled.div`
     bottom: 0;
     width: 100%;
     position: absolute;
+    overflow: hidden;
 `;
 
 const FlowerImgLeft = styled.img`
     position: relative;    
-    bottom: -50px;
-    left: -60px;    
+    bottom: -20px;
+    left: -40px;    
     transform: rotate(55deg);
-    width: 100px;
+    width: 50%;
     max-width: 200px;
     `;
 
 const FlowerImgRight = styled.img`
     position: relative;
-    bottom: -50px;
-    right: -60px;
+    bottom: -20px;
+    right: -40px;
     transform: rotate(15deg);
-    width: 100px;
+    width: 50%;
     max-width: 200px;
     `;
 

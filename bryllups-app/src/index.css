@@ -1,8 +1,9 @@
 body {
   margin: 0;
   background-color: #1c5148;
-  height: 100vh;
+  height: 100%;
   font-family: "Hubballi-Regular", Helvetica;
+  overflow: hidden;
 }
 
 code {
